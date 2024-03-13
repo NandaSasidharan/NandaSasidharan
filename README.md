@@ -20,3 +20,4 @@ I'm a Researcher/Seeker ...
 
 [It can totally change the way you experience life.](https://shivoham.ch/)
 
+credit: https://readme.so/editor author
