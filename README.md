@@ -18,6 +18,7 @@ I'm a Researcher/Seeker ...
 
 ## Yoga
 
-[It can totally change the way you experience life.](https://shivoham.ch/)
+How deep one knows something depends on ones depth of perception. Yoga offers tools to enhance one's perception.  
+[shivoham.ch](https://shivoham.ch/)
 
 credit: https://readme.so/editor author
