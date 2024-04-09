@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me
-I'm a Researcher/Seeker ...
+I'm an Electrical Engineering Researcher by training. I'm quite fascinated by the nature of human life.
 
 
 ## 🔗 Links
