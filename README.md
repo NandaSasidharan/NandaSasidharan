@@ -1,5 +1,5 @@
 
-# Hi, I'm Nanda! 👋
+# 👋 Hi, I'm Nanda! 
 
 
 ## 🚀 About Me
@@ -12,8 +12,8 @@ I'm an Electrical Engineering Researcher by training. I'm quite fascinated by th
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/NandaSasidharan)
 
 
-## Current Projects
-👩‍💻 I'm currently working on tools to build context and clarity in Education.
+## 👩‍💻 Current Projects
+ I'm currently working on tools to build context and clarity in Education.
 
 
 ## Yoga
